@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{298D85EA-1EBF-438D-92F0-EFE4D666C41B}</ProjectGuid>
+    <ProjectGuid>{C5A1C417-9794-433E-8D23-B6CAC0002196}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Candy_bar</RootNamespace>
+    <RootNamespace>pizza_company</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Candy_Bar.cpp" />
+    <ClCompile Include="pizza_company.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
