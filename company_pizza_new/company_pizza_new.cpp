@@ -29,7 +29,7 @@ int main()
 	std::cout << "The name of the company: " << pa->brand << std::endl;
 	std::cout << "The wheight of the pizza: " << pa->wheight << std::endl;
 
-
+	delete pa;
 	return 0;
 
 }
